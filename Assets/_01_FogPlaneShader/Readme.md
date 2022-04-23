@@ -1,4 +1,5 @@
-#Simple Fog Plane
-[Image](/Thumbnails/SimpleFogPlane.gif)
+# Simple Fog Plane
+![Image](Thumbnails/SimpleFogPlane.gif)
 
-Reference [Link](https://www.cyanilux.com/tutorials/fog-plane-shader-breakdown/)
+# References 
+[cyangamedev](https://www.cyanilux.com/tutorials/fog-plane-shader-breakdown/)
